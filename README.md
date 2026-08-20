@@ -2,9 +2,6 @@
 
 # Egyptian Youth Cybersecurity Challenge (EYCC) 2026
 
-**Official Challenges, Writeups & Resources Catalog**  
-Organized by **[Hack Club of STEM Egypt](https://stemeghackclub.org/)** · Challenge Authoring Partner: **[Mont5ab El2hwa](https://2hwa.xyz/)**
-
 [![CTF](https://img.shields.io/badge/CTF-Jeopardy-8B5CF6?style=for-the-badge)](https://ctftime.org/ctf/1637)
 [![Challenges](https://img.shields.io/badge/Challenges-50+-F59E0B?style=for-the-badge)](#challenges)
 [![Categories](https://img.shields.io/badge/Categories-8-10B981?style=for-the-badge)](#challenges)
