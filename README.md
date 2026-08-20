@@ -65,6 +65,7 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
   12. CoffeeHub · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub/)
   13. CoffeeHub Revenge · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub-revenge/)
   14. sql? no sql · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/sql-no-sql/)
+  15. vantage · `Finals`
 
 - **Mobile Security**
   1. Warmup · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/warmup/)
@@ -97,8 +98,7 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
   9. JOSINT · `Quals`
   10. ALOSINT · `Quals`
   11. Infected Revenge · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/infected-revenge/)
-  12. vantage · `Finals`
-  13. actor Inv · `Finals`
+  12. actor Inv · `Finals`
 
 - **Binary Exploitation**
   1. birdguard · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/birdguard/)
