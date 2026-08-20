@@ -49,23 +49,22 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
   4. Silent Access · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/silent-access/)
   5. Simple Silent Access · `Finals`
   6. Operation: GANBAR | TopSecret Fallines · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/operation-ganbar-topsecret-fallines/)
-  7. Silent Echo · `Quals`
-  8. Leaky Pixels · `Quals`
 
 - **Web Exploitation**
   1. Mall Albostan · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/mall-albostan/)
   2. Brew Bank · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/brew-bank/)
   3. Brew Bank Revenge · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/brew-bank-revenge/)
-  4. Krusty Krab Order Boards · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/krusty-krab-order-boards/)
-  5. NimbusPages · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/nimbuspages/)
-  6. Rising Star · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/rising-star/)
-  7. CoffeeHub · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub/)
-  8. CoffeeHub Revenge · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub-revenge/)
-  9. shay blaban · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/shay-blaban/)
-  10. sql? no sql · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/sql-no-sql/)
-  11. Access Denied · `Quals`
-  12. MediVault_v2 · `Quals`
-  13. Edu_SVG · `Quals`
+  4. NimbusPages · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/nimbuspages/)
+  5. shay blaban · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/shay-blaban/)
+  6. Access Denied · `Quals`
+  7. MediVault_v2 · `Quals`
+  8. Beyond the Shell · `Quals`
+  9. Edu_SVG · `Quals`
+  10. Krusty Krab Order Boards · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/krusty-krab-order-boards/)
+  11. Rising Star · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/rising-star/)
+  12. CoffeeHub · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub/)
+  13. CoffeeHub Revenge · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub-revenge/)
+  14. sql? no sql · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/sql-no-sql/)
 
 - **Mobile Security**
   1. Warmup · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/warmup/)
@@ -77,11 +76,14 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
 - **Cryptography**
   1. hehe · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/hehe/)
   2. spider man far from home · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/spider-man-far-from-home/)
-  3. The lattice madness · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/the-lattice-madness/)
-  4. babyECDSA · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/babyecdsa/)
-  5. ccrypt · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ccrypt/)
-  6. Zee Kalmar Playground · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/zee-kalmar-playground/)
-  7. 101 RSA · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/101-rsa/)
+  3. Silent Echo · `Quals`
+  4. Rookie Mistake · `Quals`
+  5. Iron Vault · `Quals`
+  6. The lattice madness · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/the-lattice-madness/)
+  7. babyECDSA · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/babyecdsa/)
+  8. ccrypt · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ccrypt/)
+  9. Zee Kalmar Playground · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/zee-kalmar-playground/)
+  10. 101 RSA · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/101-rsa/)
 
 - **OSINT**
   1. 2Face-Graduation · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/2face-graduation/)
@@ -89,23 +91,25 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
   3. Infected · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/infected/)
   4. NPM NIGHTMARE · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/npm-nightmare/)
   5. The last Note · `Quals`
-  6. JOSINT · `Quals`
-  7. Infected Revenge · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/infected-revenge/)
-  8. vantage · `Finals`
-  9. actor Inv · `Finals`
+  6. Leaky Pixels · `Quals`
+  7. DPOsint 2.0 · `Quals`
+  8. Traceback · `Quals`
+  9. JOSINT · `Quals`
+  10. ALOSINT · `Quals`
+  11. Infected Revenge · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/infected-revenge/)
+  12. vantage · `Finals`
+  13. actor Inv · `Finals`
 
 - **Binary Exploitation**
   1. birdguard · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/birdguard/)
   2. notekeeper · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/notekeeper/)
-  3. Beyond the Shell · `Quals`
-  4. Wind · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/wind/)
+  3. Wind · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/wind/)
 
 - **Miscellaneous**
   1. Details Never Appear · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/details-never-appear/)
   2. Look Closer · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/look-closer/)
-  3. Rookie Mistake · `Quals`
-  4. Escape From SpongeBob · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/escape-from-spongebob/)
-  5. Ghost · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ghost/)
+  3. Escape From SpongeBob · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/escape-from-spongebob/)
+  4. Ghost · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ghost/)
 
 ---
 
