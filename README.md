@@ -31,85 +31,82 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
 ## Challenges
 
 - **Reverse Engineering**
-  1. Metoubas v1 · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/metoubas-v1/)
-  2. Metoubas v2 · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/metoubas-v2/)
-  3. Metoubas v3 · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/metoubas-v3/)
-  4. Easy .NET · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/easy-net/)
-  5. Late WarmUp · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/late-warmup/)
-  6. Normal License Validator · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/normal-license-validator/)
-  7. BabyStep · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/babystep/)
-  8. BabyStepV2 · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/babystepv2/)
-  9. Operation: GANBAR | Free Photoshop · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/free-photoshop/)
-  10. Operation: GANBAR | natega.xls · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/operation-ganbar-natega-xls/)
+  1. Metoubas v1 · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/metoubas-v1/)
+  2. Metoubas v2 · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/metoubas-v2/)
+  3. Metoubas v3 · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/metoubas-v3/)
+  4. Easy .NET · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/easy-net/)
+  5. Late WarmUp · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/late-warmup/)
+  6. Normal License Validator · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/normal-license-validator/)
+  7. BabyStep · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/babystep/)
+  8. BabyStepV2 · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/babystepv2/)
+  9. Operation: GANBAR | Free Photoshop · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/free-photoshop/)
+  10. Operation: GANBAR | natega.xls · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/operation-ganbar-natega-xls/)
 
 - **Digital Forensics**
-  1. Ghost in the Hall · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ghost-in-the-hall/)
-  2. TickTock · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/tick-tock/)
-  3. Trust Issue · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/trust-issue/)
-  4. Silent Access · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/silent-access/)
-  5. Simple Silent Access · `Finals`
-  6. Operation: GANBAR | TopSecret Fallines · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/operation-ganbar-topsecret-fallines/)
+  1. Ghost in the Hall · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ghost-in-the-hall/)
+  2. TickTock · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/tick-tock/)
+  3. Trust Issue · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/trust-issue/)
+  4. Silent Access · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/silent-access/)
+  5. Operation: GANBAR | TopSecret Fallines · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/operation-ganbar-topsecret-fallines/)
+  6. Simple Silent Access · `Finals` · `EYCC`
 
 - **Web Exploitation**
-  1. Mall Albostan · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/mall-albostan/)
-  2. Brew Bank · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/brew-bank/)
-  3. Brew Bank Revenge · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/brew-bank-revenge/)
-  4. NimbusPages · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/nimbuspages/)
-  5. shay blaban · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/shay-blaban/)
-  6. Access Denied · `Quals`
-  7. MediVault_v2 · `Quals`
-  8. Beyond the Shell · `Quals`
-  9. Edu_SVG · `Quals`
-  10. Krusty Krab Order Boards · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/krusty-krab-order-boards/)
-  11. Rising Star · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/rising-star/)
-  12. CoffeeHub · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub/)
-  13. CoffeeHub Revenge · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub-revenge/)
-  14. sql? no sql · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/sql-no-sql/)
-  15. vantage · `Finals`
+  1. Mall Albostan · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/mall-albostan/)
+  2. Brew Bank · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/brew-bank/)
+  3. Brew Bank Revenge · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/brew-bank-revenge/)
+  4. NimbusPages · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/nimbuspages/)
+  5. shay blaban · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/shay-blaban/)
+  6. Access Denied · `Quals` · `EYCC` · [Access Challenge](Web%20Exploitation/Access-Denied/)
+  7. MediVault_v2 · `Quals` · `EYCC` · [Access Challenge](Web%20Exploitation/MediVault_v2/)
+  8. Beyond the Shell · `Quals` · `EYCC` · [Access Challenge](Web%20Exploitation/Beyond-the-Shell/)
+  9. Edu_SVG · `Quals` · `EYCC`
+  10. Krusty Krab Order Boards · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/krusty-krab-order-boards/)
+  11. Rising Star · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/rising-star/)
+  12. CoffeeHub · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub/)
+  13. CoffeeHub Revenge · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub-revenge/)
+  14. sql? no sql · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/sql-no-sql/)
+  15. vantage · `Finals` · `EYCC` · [Access Challenge](Web%20Exploitation/vantage/)
 
 - **Mobile Security**
-  1. Warmup · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/warmup/)
-  2. Sandy VS Frida · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/sandy-vs-frida/)
-  3. Krusty Krab Vault · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/krusty-krab-vault/)
-  4. SpongeBob's Photo Blog · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/spongebobs-photo-blog/)
-  5. Chainme · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/chainme/)
+  1. Warmup · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/warmup/)
+  2. Sandy VS Frida · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/sandy-vs-frida/)
+  3. Krusty Krab Vault · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/krusty-krab-vault/)
+  4. SpongeBob's Photo Blog · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/spongebobs-photo-blog/)
+  5. Chainme · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/chainme/)
 
 - **Cryptography**
-  1. hehe · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/hehe/)
-  2. spider man far from home · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/spider-man-far-from-home/)
-  3. Silent Echo · `Quals`
-  4. Rookie Mistake · `Quals`
-  5. Iron Vault · `Quals`
-  6. The lattice madness · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/the-lattice-madness/)
-  7. babyECDSA · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/babyecdsa/)
-  8. ccrypt · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ccrypt/)
-  9. Zee Kalmar Playground · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/zee-kalmar-playground/)
-  10. 101 RSA · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/101-rsa/)
+  1. hehe · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/hehe/)
+  2. spider man far from home · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/spider-man-far-from-home/)
+  3. Silent Echo · `Quals` · `EYCC` · [Access Challenge](Cryptography/Silent-Echo/)
+  4. Rookie Mistake · `Quals` · `EYCC` · [Access Challenge](Cryptography/Rookie-Mistake/)
+  5. Iron Vault · `Quals` · `EYCC` · [Access Challenge](Cryptography/Iron-Vault/)
+  6. The lattice madness · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/the-lattice-madness/)
+  7. babyECDSA · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/babyecdsa/)
+  8. ccrypt · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ccrypt/)
+  9. Zee Kalmar Playground · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/zee-kalmar-playground/)
+  10. 101 RSA · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/101-rsa/)
 
 - **OSINT**
-  1. 2Face-Graduation · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/2face-graduation/)
-  2. Kazyon · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/kazyon/)
-  3. Infected · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/infected/)
-  4. NPM NIGHTMARE · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/npm-nightmare/)
-  5. The last Note · `Quals`
-  6. Leaky Pixels · `Quals`
-  7. DPOsint 2.0 · `Quals`
-  8. Traceback · `Quals`
-  9. JOSINT · `Quals`
-  10. ALOSINT · `Quals`
-  11. Infected Revenge · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/infected-revenge/)
-  12. actor Inv · `Finals`
+  1. 2Face-Graduation · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/2face-graduation/)
+  2. Kazyon · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/kazyon/)
+  3. Infected · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/infected/)
+  4. NPM NIGHTMARE · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/npm-nightmare/)
+  5. The last Note · `Quals` · `EYCC` · [Access Challenge](OSINT/The-last-Note.md)
+  6. Leaky Pixels · `Quals` · `EYCC` · [Access Challenge](OSINT/Leaky-Pixels.md)
+  7. JOSINT · `Quals` · `EYCC`
+  8. Infected Revenge · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/infected-revenge/)
+  9. actor Inv · `Finals` · `EYCC` · [Access Challenge](OSINT/actor-Inv.md)
 
 - **Binary Exploitation**
-  1. birdguard · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/birdguard/)
-  2. notekeeper · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/notekeeper/)
-  3. Wind · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/wind/)
+  1. birdguard · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/birdguard/)
+  2. notekeeper · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/notekeeper/)
+  3. Wind · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/wind/)
 
 - **Miscellaneous**
-  1. Details Never Appear · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/details-never-appear/)
-  2. Look Closer · `Quals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/look-closer/)
-  3. Escape From SpongeBob · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/escape-from-spongebob/)
-  4. Ghost · `Finals` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ghost/)
+  1. Details Never Appear · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/details-never-appear/)
+  2. Look Closer · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/look-closer/)
+  3. Escape From SpongeBob · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/escape-from-spongebob/)
+  4. Ghost · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/ghost/)
 
 ---
 
@@ -117,32 +114,32 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
 
 ### EYCC Team
 
-| Member | Profile |
-| :--- | :--- |
-| Ahmed Helmy | [LinkedIn](https://www.linkedin.com/in/ahmed-helmy-306607350/) |
-| Yousef Habib | [LinkedIn](https://www.linkedin.com/in/usef-7abib/) |
-| Adham Shawki | [LinkedIn](https://www.linkedin.com/in/adham-shawki-135034204/) |
+| Avatar | Member |
+| :---: | :--- |
+| <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_200,q_auto:good,w_200/v1/gcs/platform-data-hackerone/events/blob_zJmpvJj" width="50" height="50" style="border-radius:50%;" /> | [Ahmed Helmy](https://www.linkedin.com/in/ahmed-helmy-306607350/) |
+| <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_200,q_auto:good,w_200/v1/gcs/platform-data-hackerone/events/blob_MBsqwHv" width="50" height="50" style="border-radius:50%;" /> | [Yousef Habib](https://www.linkedin.com/in/usef-7abib/) |
+| <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-hackerone/events/blob_nbyXdFO" width="50" height="50" style="border-radius:50%;" /> | [Adham Shawki](https://www.linkedin.com/in/adham-shawki-135034204/) |
 
 ### Mont5ab El2hwa
 
-| Author | Profile |
-| :--- | :--- |
-| Mahmoud Elkhateb | [`@elkhatebx22`](https://2hwa.xyz/elkhatebx22) |
-| Ibrahim Saeid | [`@babayaga0x01`](https://2hwa.xyz/babayaga0x01) |
-| Ibrahim (the crypto guy) | [`@vr3e`](https://www.linkedin.com/in/ibrahim-adel-6437b123b/) |
-| Abdelrahman Walid | [`@Abdelrahman_483`](https://2hwa.xyz/abdelrahman9969) |
-| Abdelrahman Radwan | [`@agn4by`](https://2hwa.xyz/Agn4by) |
-| Abdelrahman Ahmed | [`@0x2face`](https://2hwa.xyz/0x2face) |
-| Ahmed Sherif | [`@k45w4ra`](https://2hwa.xyz/k45w4ra) |
-| Ali Sherif | [`@spect3r`](https://2hwa.xyz/Spect3r) |
-| Adham Khairy | [`@Sponge`](https://2hwa.xyz/0xsponge) |
-| Omar Elgayar | [`@OG13`](https://2hwa.xyz/OG13) |
-| Mohamed Younis | [`@mo_younis`](https://2hwa.xyz/Y0un15) |
-| Mohamed Aly | [`@00xcanelo`](https://2hwa.xyz/00xcanelo) |
-| Mohamed Hegazy | [`@binbash`](https://2hwa.xyz/0xheg3zy) |
-| Mahmoud Mostafa | [`@M-Ab0L3TA`](https://2hwa.xyz/MAb0EL3TA) |
-| Mohamed Bakr | [`@烈火`](https://2hwa.xyz/0xreizouko) |
-| Mohammed Abdallah | [`@mo.ha08`](#) |
+| Avatar | Author |
+| :---: | :--- |
+| <img src="https://cdn.discordapp.com/avatars/1191460426429501541/e749c69677bd7405291664a68da23a76.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@elkhatebx22](https://2hwa.xyz/elkhatebx22) |
+| <img src="https://cdn.discordapp.com/avatars/1041041457290682368/a342b8bef389fa6a20111a0921351076.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@babayaga0x01](https://2hwa.xyz/babayaga0x01) |
+| <img src="https://2hwa.xyz/images/avatars/vr3e.webp" width="50" height="50" style="border-radius:50%;" /> | [@vr3e](https://www.linkedin.com/in/ibrahim-adel-6437b123b/) |
+| <img src="https://cdn.discordapp.com/avatars/860255758476902400/1c303ac844d8fbd45cbbfcca8527cebb.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@Abdelrahman_483](https://2hwa.xyz/abdelrahman9969) |
+| <img src="https://cdn.discordapp.com/avatars/1200806481436606555/4df50881356d481ea3623b00625bccc0.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@agn4by](https://2hwa.xyz/Agn4by) |
+| <img src="https://cdn.discordapp.com/avatars/1293335632873259018/2d6deaac6b3eae7706504924bd362ba6.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@0x2face](https://2hwa.xyz/0x2face) |
+| <img src="https://cdn.discordapp.com/avatars/735483553185398815/38bdd3399037ae4ead50290a66769896.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@k45w4ra](https://2hwa.xyz/k45w4ra) |
+| <img src="https://cdn.discordapp.com/avatars/941114551418650635/920cf0086d3700c68900ffb39e5d4ff6.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@spect3r](https://2hwa.xyz/Spect3r) |
+| <img src="https://cdn.discordapp.com/avatars/1008736955799969806/b685c895fcffa5ecd80af1335a836962.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@Sponge](https://2hwa.xyz/0xsponge) |
+| <img src="https://cdn.discordapp.com/avatars/1063192541408800798/d934e8c960a118391335212c61011a1e.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@OG13](https://2hwa.xyz/OG13) |
+| <img src="https://cdn.discordapp.com/avatars/1144355791059554376/f1b0ce85283ef5123feeb5e03b3b0348.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@mo_younis](https://2hwa.xyz/Y0un15) |
+| <img src="https://cdn.discordapp.com/avatars/1002952700880764958/bbcc7c80f89fd54e9ef53dc510a66911.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@00xcanelo](https://2hwa.xyz/00xcanelo) |
+| <img src="https://cdn.discordapp.com/avatars/1276829957338828841/a449c300bff5836eb54b7a1a9dbac725.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@binbash](https://2hwa.xyz/0xheg3zy) |
+| <img src="https://cdn.discordapp.com/avatars/1211619721485746199/e83c76383e7e30559667ef86f5a6753e.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@M-Ab0L3TA](https://2hwa.xyz/MAb0EL3TA) |
+| <img src="https://cdn.discordapp.com/avatars/490936202384506900/9b619d4e450ed2266c09e9ad115cf67d.png?size=1024" width="50" height="50" style="border-radius:50%;" /> | [@烈火](https://2hwa.xyz/0xreizouko) |
+| <img src="https://2hwa.xyz/images/avatars/mo.ha08.webp" width="50" height="50" style="border-radius:50%;" /> | [@mo.ha08](#) |
 
 ---
 
