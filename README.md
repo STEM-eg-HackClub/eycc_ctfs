@@ -48,7 +48,6 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
   3. Trust Issue · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/trust-issue/)
   4. Silent Access · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/silent-access/)
   5. Operation: GANBAR | TopSecret Fallines · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/operation-ganbar-topsecret-fallines/)
-  6. Simple Silent Access · `Finals` · `EYCC`
 
 - **Web Exploitation**
   1. Mall Albostan · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/mall-albostan/)
@@ -59,7 +58,7 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
   6. Access Denied · `Quals` · `EYCC` · [Access Challenge](Web%20Exploitation/Access-Denied/)
   7. MediVault_v2 · `Quals` · `EYCC` · [Access Challenge](Web%20Exploitation/MediVault_v2/)
   8. Beyond the Shell · `Quals` · `EYCC` · [Access Challenge](Web%20Exploitation/Beyond-the-Shell/)
-  9. Edu_SVG · `Quals` · `EYCC`
+  9. Edu_SVG · `Quals` · `EYCC` · [Access Challenge](Web%20Exploitation/Edu_SVG/)
   10. Krusty Krab Order Boards · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/krusty-krab-order-boards/)
   11. Rising Star · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/rising-star/)
   12. CoffeeHub · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/coffeehub/)
@@ -93,7 +92,7 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
   4. NPM NIGHTMARE · `Quals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/npm-nightmare/)
   5. The last Note · `Quals` · `EYCC` · [Access Challenge](OSINT/The-last-Note.md)
   6. Leaky Pixels · `Quals` · `EYCC` · [Access Challenge](OSINT/Leaky-Pixels.md)
-  7. JOSINT · `Quals` · `EYCC`
+  7. JOSINT · `Quals` · `EYCC` · [Access Challenge](OSINT/JOSINT.md)
   8. Infected Revenge · `Finals` · `2HWA` · [Access Challenge](https://2hwa.xyz/eycc-ctf-2026/infected-revenge/)
   9. actor Inv · `Finals` · `EYCC` · [Access Challenge](OSINT/actor-Inv.md)
 
@@ -119,6 +118,7 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
 | <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_200,q_auto:good,w_200/v1/gcs/platform-data-hackerone/events/blob_zJmpvJj" width="50" height="50" style="border-radius:50%;" /> | [Ahmed Helmy](https://www.linkedin.com/in/ahmed-helmy-306607350/) |
 | <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_200,q_auto:good,w_200/v1/gcs/platform-data-hackerone/events/blob_MBsqwHv" width="50" height="50" style="border-radius:50%;" /> | [Yousef Habib](https://www.linkedin.com/in/usef-7abib/) |
 | <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-hackerone/events/blob_nbyXdFO" width="50" height="50" style="border-radius:50%;" /> | [Adham Shawki](https://www.linkedin.com/in/adham-shawki-135034204/) |
+| <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_200,q_auto:good,w_200/v1/gcs/platform-data-hackerone/events/blob_cHVOYxW" width="50" height="50" style="border-radius:50%;" /> | [Ziad Algohary](https://www.linkedin.com/in/ziad-algohary-337a11352/) |
 
 ### Mont5ab El2hwa
 
